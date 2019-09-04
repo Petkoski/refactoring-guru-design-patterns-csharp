@@ -78,6 +78,8 @@ namespace Singleton.NonThreadSafe
             }
 
             Singleton.SomeBusinessLogic();
+
+            Console.Read();
         }
     }
 }

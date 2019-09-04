@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.NonThreadSafe", "Singleton.NonThreadSafe\Singleton.NonThreadSafe.csproj", "{A8A616CF-8EC7-4B50-802A-772D7B8AAB24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.ThreadSafe", "Singleton.ThreadSafe\Singleton.ThreadSafe.csproj", "{78EF5ED4-AFDE-484B-A7A9-CAD2C0953EEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A8A616CF-8EC7-4B50-802A-772D7B8AAB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A616CF-8EC7-4B50-802A-772D7B8AAB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A616CF-8EC7-4B50-802A-772D7B8AAB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EF5ED4-AFDE-484B-A7A9-CAD2C0953EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EF5ED4-AFDE-484B-A7A9-CAD2C0953EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EF5ED4-AFDE-484B-A7A9-CAD2C0953EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EF5ED4-AFDE-484B-A7A9-CAD2C0953EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
