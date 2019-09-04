@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 // Source: https://refactoring.guru/design-patterns/prototype
-// Prototype is a creational design pattern that lets you copy existing 
-// objects without making your code dependent on their classes.
+// Intent: Prototype is a creational design pattern that lets you copy 
+// existing objects without making your code dependent on their classes.
 
 // Usage examples: The Prototype pattern is available in C# out of the 
 // box with a Cloneable interface.
